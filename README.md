@@ -1,7 +1,7 @@
 # 자기소개
 * * *
 
-<img src = JG.jpg height=150 widht=150>
+<img src = JG.jpg height=300 widht=300>
 
 * 이름 : 장준기
 * 학번 : 20215233
