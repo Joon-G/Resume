@@ -1,4 +1,4 @@
-# 자기소개
+# 자기소개서
 * * *
 
 <img src = JG.jpg height=300 widht=300>
